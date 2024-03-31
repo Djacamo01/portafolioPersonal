@@ -1,9 +1,6 @@
-*/{
-  margin: 0;
-  padding: 0;
-}
 
-/* Estilos generales */
+
+
 
 section {
   display: flex;
@@ -55,7 +52,7 @@ h1 {
   color: white;
 }
 
-/* Adaptable (Responsivo) */
+
 
 @media screen and (max-width: 400px) {
   .overlay p {
