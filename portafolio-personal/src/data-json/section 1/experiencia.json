@@ -1,0 +1,17 @@
+{
+    "experiencia": {
+      "titulo": "Desarrollo Web",
+      "descripcion": "En el mundo del desarrollo web, he tenido la oportunidad de crear soluciones digitales atractivas y funcionales que cumplen con las necesidades de los usuarios. Me apasiona la creación de experiencias interactivas y amigables para el usuario utilizando tecnologías como HTML, CSS, JavaScript, Java y C#. Además, tengo experiencia trabajando con frameworks como Bootstrap y SpringBoot para agilizar el proceso de diseño y desarrollo."
+    },
+    "badges": [
+      { "nombre": "HTML" },
+      { "nombre": "CSS" },
+      { "nombre": "JavaScript" },
+      { "nombre": "Java" },
+      { "nombre": "bootstrap" },
+      { "nombre": "SpringBoot" },
+      { "nombre": "Mysql" },
+      { "nombre": "C#" }
+    ]
+  }
+  
