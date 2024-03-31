@@ -1,0 +1,12 @@
+{
+    "experiencia": {
+      "titulo": "Estudiante",
+      "descripcion": "Soy un apasionado estudiante de Ingeniería en Tecnologías de la Información en la UNAN-León, con un enfoque especial en Desarrollo Web y Marketing Digital. Mi búsqueda constante de conocimiento me lleva a explorar nuevas tecnologías y enfoques para resolver problemas de manera creativa. Formo parte del G5 de Oracle Next Education ONE, donde recibo apoyo técnico de Alura para continuar expandiendo mis habilidades en el ámbito tecnológico."
+    },
+    "badges": [
+      { "nombre": "Oracle Next Education" },
+      { "nombre": "Desarrollo Web" },
+      { "nombre": "UNAN-León" }
+    ]
+  }
+  

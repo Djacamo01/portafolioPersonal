@@ -1,0 +1,12 @@
+{
+    "experiencia": {
+      "titulo": "Proyectos Personales",
+      "descripcion": "Me dedico a la creación de proyectos personales que involucran desarrollo web y programación. Mi enfoque está en construir soluciones prácticas y creativas para problemas del mundo real. Desde aplicaciones web hasta herramientas de automatización, disfruto de la creación de software que tenga un impacto positivo. Además, colaboro con otros desarrolladores en la comunidad para aprender y contribuir a proyectos de código abierto."
+    },
+    "badges": [
+      { "nombre": "github" },
+      { "nombre": "C#" },
+      { "nombre": "Colaboración" }
+    ]
+  }
+  

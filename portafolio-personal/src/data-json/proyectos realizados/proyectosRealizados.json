@@ -1,0 +1,65 @@
+{
+    "texto": {
+      "titulo": "Mis proyectos recientes y Certificaciones",
+      "descripcion": "Estos son algunos proyectos que he creado recientemente y mis Certificaciones..."
+    },
+    "proyectos": [
+      {
+        "nombre": "Encriptador/Desencriptador Alura 🔐🔓",
+        "image": "proyecto1",
+          "enlace": "https://github.com/Djacamo01/Encriptador-OracleNext-Alura",
+        "enlaces": {
+          "github": "https://github.com/Djacamo01/Encriptador-OracleNext-Alura",
+          "laptop": "https://djacamo01.github.io/Encriptador-OracleNext-Alura/"
+        }
+      },
+      {
+        "nombre": "Sistema de Gestion Academico",
+        "image": "proyecto2",
+          "enlace": "https://github.com/Djacamo01/Proyecto-Gestion-Universidad",
+        "enlaces": {
+          "github": "https://github.com/Djacamo01/Proyecto-Gestion-Universidad"
+        }
+      },
+      {
+        "nombre": "Certificaciones y Perfil EmpleadONE",
+        "image": "proyecto3",
+          "enlace": "https://app.aluracursos.com/emprega-one/profile/jacamodonaldmiguel"
+        ,
+        "enlaces": {
+          "github": "https://app.aluracursos.com/emprega-one/profile/jacamodonaldmiguel"
+        }
+      },
+      {
+        "nombre": "Foro Alura💬📚",
+        "image": "proyecto4",
+          "enlace": "https://github.com/Djacamo01/ForoALura-ONE-Alura"
+        ,
+        "enlaces": {
+          "github": "https://github.com/Djacamo01/ForoALura-ONE-Alura",
+          "laptop": "https://github.com/Djacamo01/ForoALura-ONE-Alura/"
+        }
+      },
+      {
+        "nombre": "Próximamente",
+        "image": "proyecto5",
+          "enlace": "https://github.com/Djacamo01"
+        ,
+        "enlaces": {
+          "github": "https://github.com/Djacamo01",
+          "laptop": "#"
+        }
+      },
+      {
+        "nombre": "Próximamente",
+        "image": "proyecto6",
+          "enlace": "https://github.com/Djacamo01"
+        ,
+        "enlaces": {
+          "github": "https://github.com/Djacamo01",
+          "laptop": "#"
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,26 @@
+{
+  "carrusel": {
+    "titulo": "Descubre lo que dicen quienes han trabajado conmigo",
+    "descripcion": "¡Tú podrías ser el próximo en compartir tu experiencia!",
+    "testimonios": [
+      {
+        "imagen": "cliente1",
+        "texto": "No esperes más para trabajar con Donald. Este talentoso programador con gran proyección transformó nuestra visión en una realidad en tiempo récord. ¡No podríamos estar más satisfechos!",
+        "cliente": "Gino",
+        "cargo": "Gerente de proyectos en DesarrolloWeb"
+      },
+      {
+        "imagen": "cliente2",
+        "texto": "¿Qué estás esperando? Donald es el programador que necesitas para llevar tu proyecto al siguiente nivel. Su habilidad para captar nuestras ideas y convertirlas en realidad es impresionante. ¡Recomendado al 100%!",
+        "cliente": "Nora",
+        "cargo": "Gerente de DiseñaMiPáginaWeb"
+      },
+      {
+        "imagen": "cliente3",
+        "texto": "¡No seas el último en aprovechar las habilidades de Donald! Este programador excepcional tiene un enfoque creativo y meticuloso que se reflejó en cada detalle de nuestro proyecto. ¡No busques más, tu búsqueda ha terminado!",
+        "cliente": "Leonardo",
+        "cargo": "Director de AprendeAProgramar"
+      }
+    ]
+  }
+}
